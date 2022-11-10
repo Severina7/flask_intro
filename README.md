@@ -1,1 +1,1 @@
-This project is my repository to practice learning flask.
+Flask projects initial repo.
